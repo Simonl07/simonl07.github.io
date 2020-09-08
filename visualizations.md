@@ -8,6 +8,7 @@ permalink: /visualizations
 ### A2 : Introduction to Visualizing Amounts using P5
 
 Name: Simon Lu 
+
 Assignment: A2 : Introduction to Visualizing Amounts using P5
 
 Three visualizations of airlines.csv data using P5, basic tool tips are added.
@@ -18,7 +19,8 @@ Three visualizations of airlines.csv data using P5, basic tool tips are added.
 
 ### A3: Introduction to Visualizing Distributions using P5
 
-Name: Simon L
+Name: Simon Lu
+
 Assignment: A3: Introduction to Visualizing Distributions using P5
 
 Histogram: https://bl.ocks.org/Simonl07/2f7e9c9eb035ffcd5cba1bb41c0a8527
